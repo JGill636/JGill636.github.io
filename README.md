@@ -1,6 +1,6 @@
 # JGill636.github.io
 
-## This project successfully applies data science techniques to explore and predict used Ford car prices. The insights gained can inform Ford's product development, pricing strategies, and marketing efforts, as well as guide consumers in making informed purchasing decisions.
+### This project successfully applies data science techniques to explore and predict used Ford car prices. The insights gained can inform Ford's product development, pricing strategies, and marketing efforts, as well as guide consumers in making informed purchasing decisions.
 
 ## Key Features of the Analysis
 Statistical Tests:
